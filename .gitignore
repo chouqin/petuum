@@ -39,3 +39,6 @@ tags
 
 # osx
 .DS_Store
+
+.idea/*
+CMakeLists.txt
